@@ -5,7 +5,8 @@
 ## 内容导航
 
 * [1 - Supervised VS Unsupervised learning](./Notebook/Chapter1.ipynb)
-* [2 - Cross-validation](./Notebook/Chapter2.ipynb)
+* [2 - Cross validation](./Notebook/Chapter2.ipynb)
+* [3 - Evaluation metrics](./Notebook/Chapter3.ipynb)
 
 ## 数据集地址
 
